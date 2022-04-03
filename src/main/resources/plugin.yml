@@ -1,0 +1,4 @@
+main: org.jukeboxmc.example.ExamplePlugin
+name: ExamplePlugin
+author: LucGamesYT
+version: 1.0.0
